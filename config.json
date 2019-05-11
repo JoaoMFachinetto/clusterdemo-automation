@@ -1,0 +1,4 @@
+{
+    "fileUris": ["https://raw.githubusercontent.com/JoaoMFachinetto/clusterdemo-automation/master/joinswarm.sh"],
+    "commandToExecute": "./joinswarm.sh"
+}
